@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/jlanoue/goProjects/02_variableSetup.go"
+
+	"github.com/jlanoue/goProjects/main/stringutil"
 )
 
 func main() {
